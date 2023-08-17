@@ -4,7 +4,7 @@
             <div class="dropdown category-dropdown">
                 <a href="{{ route('product.home') }}" class="dropdown-toggle" role="button" data-toggle="dropdown"
                     aria-haspopup="true" aria-expanded="false" data-display="static" title="Browse Categories">
-                    Food Categories <i class="icon-angle-down"></i>
+                    Toy Categories <i class="icon-angle-down"></i>
                 </a>
                 <div class="dropdown-menu">
                     <nav class="side-nav">

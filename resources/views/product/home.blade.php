@@ -1,7 +1,7 @@
 @include('product.layout')
 @extends('clien.layout.index')
 @section('content')
-    <h2 class="list-product-title">NEW FOOD</h2>
+    <h2 class="list-product-title">NEW TOY</h2>
 
     <div class="list-product-subtitle">
         @if (session('success'))
@@ -10,7 +10,7 @@
             </div>
         @endif
 
-        <p>List New Food</p>
+        <p>List New Toy</p>
         <style>
             .square-image {
                 width: 277px;

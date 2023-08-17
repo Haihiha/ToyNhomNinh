@@ -11,8 +11,9 @@
                   }
               }
           }'>
+
             <div class="intro-slide"
-                style="background-image: url(https://i.pinimg.com/originals/eb/bf/53/ebbf53b8fc119e30af309c0bb90765d0.gif);">
+                style="background-image: url(https://cdn.firstcry.com/education/2022/11/06094158/Toy-Names-For-Kids.jpg);">
                 <div class="container intro-content">
                     <div class="row justify-content-end">
                         <div class="col-auto col-sm-7 col-md-6 col-lg-5">
@@ -40,7 +41,7 @@
             </div><!-- End .intro-slide -->
 
             <div class="intro-slide"
-                style="background-image: url(https://media.ohay.tv/v1/upload/content/2019-03/31/35624-1554041197-oh2-ohaytv.gif);">
+                style="background-image: url(https://media.shoptretho.com.vn/upload/image/news/20180218/mach-me-cach-chon-do-choi-tre-em-thong-minh.png);">
                 <div class="container intro-content">
                     <div class="row justify-content-end">
                         <div class="col-auto col-sm-7 col-md-6 col-lg-5">
@@ -70,8 +71,8 @@
     </div><!-- End .intro-slider-container -->
 
     <div class="container">
-        <h2 class="title text-center mb-4">Hot Food
-            <img src="https://static.vecteezy.com/system/resources/previews/020/522/257/original/fire-emoji-icon-free-png.png"
+        <h2 class="title text-center mb-4">Children toy
+            <img src="https://indochinalines.com/wp-content/uploads/2021/03/Nhap-khau-do-choi-tre-em.jpeg"
                 width="25px" height="25px" style="display:inline">
         </h2><!-- End .title text-center -->
 
@@ -82,13 +83,14 @@
                     <a href="category.html" class="cat-block">
                         <figure>
                             <span>
-                                <img style="border-radius: 10%"
-                                    src="https://animemotivation.com/wp-content/uploads/2018/07/tasty-anime-food-gif.gif"
+                                <img style="border-radius: 10%;  height: 123px;
+                                width: 220.26px;"
+                                    src="https://haiphongtop10.net/wp-content/uploads/do-choi-xep-hinh-cho-be-1.jpg"
                                     alt="Category image">
                             </span>
                         </figure>
 
-                        <h3 class="cat-block-title">CHICKEN</h3><!-- End .cat-block-title -->
+                        <h3 class="cat-block-title">Children</h3><!-- End .cat-block-title -->
                     </a>
                 </div><!-- End .col-sm-4 col-lg-2 -->
 
@@ -96,13 +98,14 @@
                     <a href="category.html" class="cat-block">
                         <figure>
                             <span>
-                                <img style="border-radius: 10%"
-                                    src="https://i.pinimg.com/originals/45/8e/3a/458e3a87531f83ddc1e0ecf26272eb9c.gif"
+                                <img style="border-radius: 10%;  height: 123px;
+                                width: 220.26px;"
+                                    src="https://www.xechobe.com.vn/vnt_upload/product/08_2018/xe_hoi_do_choi_tre_em_lt_998.jpg"
                                     alt="Category image">
                             </span>
                         </figure>
 
-                        <h3 class="cat-block-title">BREAD</h3><!-- End .cat-block-title -->
+                        <h3 class="cat-block-title">Car Toy</h3><!-- End .cat-block-title -->
                     </a>
                 </div><!-- End .col-sm-4 col-lg-2 -->
 
@@ -110,13 +113,14 @@
                     <a href="category.html" class="cat-block">
                         <figure>
                             <span>
-                                <img style="border-radius: 10%"
-                                    src="https://xkld-nhatban.net/wp-content/uploads/2021/06/mi-ramen-anime.gif"
+                                <img style="border-radius: 10%;  height: 123px;
+                                width: 220.26px;"
+                                    src="https://xuongmocgocongnghiep.com/upload/images/thiet-ke-cua-hang-do-choi-tre-em-2.jpg"
                                     alt="Category image">
                             </span>
                         </figure>
 
-                        <h3 class="cat-block-title">NOODLES</h3><!-- End .cat-block-title -->
+                        <h3 class="cat-block-title">Children's toy store</h3><!-- End .cat-block-title -->
                     </a>
                 </div><!-- End .col-sm-4 col-lg-2 -->
 
@@ -124,13 +128,14 @@
                     <a href="category.html" class="cat-block">
                         <figure>
                             <span>
-                                <img style="border-radius: 10%"
-                                    src="https://i.pinimg.com/originals/3f/22/ce/3f22ce51370912f6e6dcc1dd5370ab90.gif"
+                                <img style="border-radius: 10%;  height: 123px;
+                                width: 220.26px;"
+                                    src="https://toplistsaigon.com/wp-content/uploads/2021/05/Vbccare.jpg"
                                     alt="Category image">
                             </span>
                         </figure>
 
-                        <h3 class="cat-block-title">CREAM</h3><!-- End .cat-block-title -->
+                        <h3 class="cat-block-title">Alphabets</h3><!-- End .cat-block-title -->
                     </a>
                 </div><!-- End .col-sm-4 col-lg-2 -->
 
@@ -138,13 +143,14 @@
                     <a href="category.html" class="cat-block">
                         <figure>
                             <span>
-                                <img style="border-radius: 10%"
-                                    src="https://i.pinimg.com/originals/da/1c/5b/da1c5b2f91aeeeee9cbada2f71a73a1b.gif"
+                                <img style="border-radius: 10%;  height: 123px;
+                                width: 220.26px;"
+                                    src="https://i.ytimg.com/vi/4UtwLmuMKTA/maxresdefault.jpg"
                                     alt="Category image">
                             </span>
                         </figure>
 
-                        <h3 class="cat-block-title">DRINK</h3><!-- End .cat-block-title -->
+                        <h3 class="cat-block-title">Children toy</h3><!-- End .cat-block-title -->
                     </a>
                 </div><!-- End .col-sm-4 col-lg-2 -->
 
@@ -152,12 +158,13 @@
                     <a href="category.html" class="cat-block">
                         <figure>
                             <span>
-                                <img style="border-radius: 10%"
-                                    src="https://media.tenor.com/JKDulylPgegAAAAC/anime-hamburger.gif"alt="Category image">
+                                <img style="border-radius: 10%;  height: 123px;
+                                width: 220.26px;"
+                                    src="https://tdtdecor.vn/wp-content/uploads/2021/06/thiet-ke-cua-hang-do-choi-tre-em-26.jpg">
                             </span>
                         </figure>
 
-                        <h3 class="cat-block-title">HAMBERGUR</h3><!-- End .cat-block-title -->
+                        <h3 class="cat-block-title">Toys supermaket</h3><!-- End .cat-block-title -->
                     </a>
                 </div><!-- End .col-sm-4 col-lg-2 -->
             </div><!-- End .row -->
